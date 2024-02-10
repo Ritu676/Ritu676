@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ritu676
-- 
+- 👋 Hi, I just joined this place
+  
 
 <!---
 Ritu676/Ritu676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
